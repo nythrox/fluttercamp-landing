@@ -199,13 +199,13 @@ textarea::placeholder {
 
 input:focus,
 textarea:focus {
-  border-color: #F2A92C;
+  border-color: rgb(93,170,250);
 }
 
 .back-to-top {
   width: 45px;
   height: 45px;
-  background: #F2A92C;
+  background: rgb(93,170,250);
   text-align: center;
   line-height: 45px;
   font-size: 20px;
@@ -258,7 +258,7 @@ textarea:focus {
 }
 
 .main-btn:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .btn-hover {
@@ -376,7 +376,7 @@ textarea:focus {
   height: 100%;
   border-style: solid;
   /* Spinner Color */
-  border-color: #F2A92C #F2A92C #F9F9F9;
+  border-color: rgb(93,170,250) rgb(93,170,250) #F9F9F9;
   border-radius: 50%;
   border-width: 6px;
 }
@@ -1303,7 +1303,7 @@ textarea:focus {
 }
 
 .navbar-brand img {
-  width: 150px;
+  width: 250px;
 }
 
 @media (max-width: 767px) {
@@ -1450,13 +1450,13 @@ textarea:focus {
 }
 
 .navbar-nav .nav-item a.active, .navbar-nav .nav-item a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .navbar-nav .nav-item a.header-btn {
   padding: 12px 28px;
   border-radius: 30px;
-  background: #F2A92C;
+  background: rgb(93,170,250);
   color: #fff;
   display: inline-block;
 }
@@ -1527,7 +1527,7 @@ textarea:focus {
 
 .navbar-nav .nav-item .sub-menu li a.active, .navbar-nav .nav-item .sub-menu li a:hover {
   padding-left: 25px;
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .navbar-nav .sub-nav-toggler {
@@ -1584,11 +1584,11 @@ textarea:focus {
 }
 
 .sticky .navbar-nav .nav-item a::before {
-  background-color: #F2A92C;
+  background-color: rgb(93,170,250);
 }
 
 .sticky .navbar-nav .nav-item a.active, .sticky .navbar-nav .nav-item a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .sticky .navbar-nav .nav-item a.header-btn {
@@ -1680,7 +1680,7 @@ hero area css
 }
 
 .hero-area .hero-content a.main-btn:hover {
-  background: #F2A92C;
+  background: rgb(93,170,250);
   color: #fff;
 }
 
@@ -1838,7 +1838,7 @@ course css
 }
 
 .course-area .single-course .course-info h4 a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -1901,7 +1901,7 @@ course css
 .course-area .single-course .course-info .course-meta .price span {
   font-size: 16px;
   font-weight: 500;
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .course-area .course-pagination .pagination li a {
@@ -1920,12 +1920,12 @@ course css
   margin: 0 10px;
   background: #fff;
   color: #283747;
-  border-color: #F2A92C;
+  border-color: rgb(93,170,250);
 }
 
 .course-area .course-pagination .pagination li a:hover {
   color: #fff;
-  background: #F2A92C;
+  background: rgb(93,170,250);
 }
 
 .course-area .single-course-wrapper .course-img img {
@@ -1938,7 +1938,7 @@ course css
 }
 
 .course-area .course-included ul li i {
-  color: #F2A92C;
+  color: rgb(93,170,250);
   margin-right: 10px;
   font-weight: 700;
 }
@@ -2001,11 +2001,11 @@ course css
 }
 
 .course-area .right-sidebar .course-info ul li span.text-right a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .course-area .right-sidebar .course-info .main-btn {
-  background: #F2A92C;
+  background: rgb(93,170,250);
   color: #fff;
   border-radius: 4px;
   text-transform: uppercase;
@@ -2027,11 +2027,11 @@ course css
 }
 
 .course-area .right-sidebar .course-category ul li a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .course-area .right-sidebar .course-category ul li a i {
-  color: #F2A92C;
+  color: rgb(93,170,250);
   font-size: 12px;
 }
 
@@ -2039,7 +2039,7 @@ course css
   font-size: 16px;
   font-weight: 500;
   padding: 16px 36px;
-  border: 2px solid #F2A92C;
+  border: 2px solid rgb(93,170,250);
   color: #283747;
 }
 
@@ -2061,9 +2061,9 @@ welcome css
 
 .welcome-area .welcome-content .content a {
   font-size: 18px;
-  color: #F2A92C;
+  color: rgb(93,170,250);
   line-height: 2;
-  border-bottom: 1.5px solid #F2A92C;
+  border-bottom: 1.5px solid rgb(93,170,250);
 }
 
 .welcome-area .welcome-content .content a i {
@@ -2172,7 +2172,7 @@ blog css
 }
 
 .blog-area .single-blog .blog-content h4 a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2265,13 +2265,13 @@ contact css
 }
 
 .contact-area .contact-form-wrapper form input:focus, .contact-area .contact-form-wrapper form textarea:focus {
-  border-color: #F2A92C;
+  border-color: rgb(93,170,250);
 }
 
 .contact-area .contact-form-wrapper form button {
   padding: 16px 40px;
   border-radius: 5px;
-  background: #F2A92C;
+  background: rgb(93,170,250);
   color: #fff;
 }
 
@@ -2299,7 +2299,7 @@ contact css
 }
 
 .page-banner .banner-content .breadcrumb li {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .page-banner .banner-content .breadcrumb li::before {
@@ -2311,7 +2311,7 @@ contact css
 }
 
 .page-banner .banner-content .breadcrumb li a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 /*============================
@@ -2338,7 +2338,7 @@ footer css
 }
 
 .footer-area .footer-widget ul li a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 
 .footer-area .footer-widget ul li p {
@@ -2380,7 +2380,7 @@ footer css
 }
 
 .footer-area .footer-credit .footer-social ul li a:hover {
-  color: #F2A92C;
+  color: rgb(93,170,250);
 }
 /*# sourceMappingURL=style.css.map */
 
@@ -2549,7 +2549,7 @@ footer css
   bottom: 0;
   background: #fff;
   padding: 10px 5px;
-  border-left: 2px solid #f2a92c;
+  border-left: 2px solid rgb(93,170,250);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all .3s ease-out 0s;
@@ -2580,7 +2580,7 @@ footer css
 }
 
 .team-area .single-team .team-img .social-link ul li a:hover {
-  color: #f2a92c
+  color: rgb(93,170,250)
 }
 
 .team-area .single-team .team-info {
